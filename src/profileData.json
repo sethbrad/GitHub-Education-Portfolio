@@ -1,0 +1,65 @@
+{
+	"landing": {
+		"firstName": "Seth",
+		"lastName": "Braddock",
+		"phoneNumber": "(319) 392-4108",
+		"bio": "I'm a computer engineering student at Iowa State University, and I have a love of all things technological. ",
+    "email": "sethbrad@iastate.edu",
+    "linkedin": "https://www.linkedin.com/in/seth-braddock099/",
+		"github": "https://github.com/sethbrad"
+	},
+	"experience": [
+		{
+			"position": "Academic Tutor",
+			"organization": "Iowa State University",
+			"aboutWork": "Led group sessions, guided work through calculus problems, and kept lesson plans.",
+			"fromDate": "September 2019",
+			"toDate": "May 2020"
+		},
+		{
+			"position": "Team Member",
+			"organization": "Pet Supplies Plus",
+			"aboutWork": "Provided excellent customer service, educated store-goers about animals and products, and kept store organized.",
+			"fromDate": "June 2017",
+			"toDate": "January 2020"
+		}
+	],
+	"education": [{
+			"university": "Iowa State University",
+			"degree": "Bachelor's of Computer Engineering",
+			"gpa": "3.46",
+			"fromDate": "August 2018",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "Java"
+		},
+		{
+			"name": "Embedded C"
+		},
+		{
+			"name": "Arduino Prototyping"
+		},
+		{
+			"name": "Git Source Control"
+		},
+		{
+			"name": "Web Development"
+		},
+		{
+			"name": "AutoDesk Inventor"
+		},
+		{
+			"name": "Microsoft Office Suite"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Outside of school, I enjoy listening to and playing musice, whether it be guitar, drums, or bass.",
+		"paragraphTwo": "I also love to be outside enjoying nature."
+	},
+	"awards": [{
+			"awardDetail": "World Food Prize Bourlag Scholar"
+		}
+	]
+}
